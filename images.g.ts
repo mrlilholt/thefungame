@@ -28,6 +28,25 @@ namespace myImages {
 ....b......b....
 ....b......b....
 `;
+            case "7V6v9Kbb#db#?3(yEgrX":
+            case "2a":return img`
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f 1 1 1 1 1 f f f f f 
+f f f f f f 1 1 1 1 1 f f f f f 
+f f f f f f 1 1 1 1 1 f f f f f 
+f f f f f f 1 1 1 1 1 f f f f f 
+f f f f f f 1 1 1 1 1 f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+`;
         }
         return null;
     })
